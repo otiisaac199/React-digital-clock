@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: url("Assets/alexandar-todov-AMzC2RVurO4-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  overflow: hidden;
+}
+.page__container {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  margin: 5rem 0;
+  align-items: center;
+  align-items: center;
+}
+h1 {
+  margin: 3rem 0;
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: none;
+  text-align: center;
+  text-shadow: 1px 0 white, 0 1px white, -1px 0 white, 0 -1px white;
+}
+h2 {
+  border: 2px solid cornsilk;
+  width: 350px;
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 3rem;
+  color: #78ebff;
+  letter-spacing: 5px;
+}
