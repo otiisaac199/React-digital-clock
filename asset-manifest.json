@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-digital-clock/static/css/main.94d3b94c.css",
+    "main.js": "/React-digital-clock/static/js/main.6a1f8901.js",
+    "static/media/alexandar-todov-AMzC2RVurO4-unsplash.jpg": "/React-digital-clock/static/media/alexandar-todov-AMzC2RVurO4-unsplash.7273091a0ab66f3a9371.jpg",
+    "index.html": "/React-digital-clock/index.html",
+    "main.94d3b94c.css.map": "/React-digital-clock/static/css/main.94d3b94c.css.map",
+    "main.6a1f8901.js.map": "/React-digital-clock/static/js/main.6a1f8901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d3b94c.css",
+    "static/js/main.6a1f8901.js"
+  ]
+}
